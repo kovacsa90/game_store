@@ -1,0 +1,11 @@
+.Cell-common-text {
+  font-weight: 300;
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #14f0af;
+}
+
+.Cell-common-container {
+  margin: auto;
+  margin-left: 30px;
+}

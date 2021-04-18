@@ -1,0 +1,8 @@
+.Rating-container {
+  min-width: max-content;
+  margin: auto;
+}
+
+.Rating-star {
+  margin-right: 15px;
+}

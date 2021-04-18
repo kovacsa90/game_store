@@ -1,0 +1,14 @@
+.Quantity-container {
+  user-select: none;
+  min-width: 100px;
+  margin: auto;
+}
+
+.Quantity-counter {
+  display: flex;
+}
+
+.Quantity-counter-value {
+  margin: 5px 12px;
+  font-size: 13px;
+}

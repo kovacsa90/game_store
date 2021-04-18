@@ -1,0 +1,16 @@
+.Tile-container {
+  display: flex;
+  min-width: fit-content;
+  background-color: #1e2131;
+  border-radius: 16px;
+  margin-bottom: 20px;
+  height: 100px;
+}
+
+.Tile-container:hover {
+  background-color: #282b40;
+}
+
+.Tile-container-checkout {
+  width: 80%;
+}

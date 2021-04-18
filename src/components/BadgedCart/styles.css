@@ -1,0 +1,18 @@
+.BadgedCart-container {
+  padding-right: 20px;
+  padding-top: 5px;
+  position: relative;
+}
+
+.BadgedCart-badge {
+  font-weight: bold;
+  color: #101320;
+  background-color: #14f0af;
+  padding: 1px 1px 0 1px;
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: -5px;
+  right: 12px;
+}

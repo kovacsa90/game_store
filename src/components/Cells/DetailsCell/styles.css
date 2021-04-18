@@ -1,0 +1,15 @@
+.Details-image {
+  border-radius: 16px 0 0 16px;
+  width: 100px;
+}
+
+.Details-container {
+  min-width: 350px;
+  width: 450px;
+  display: flex;
+}
+
+.Details-text-title {
+  font-size: 15px;
+  font-weight: bold;
+}

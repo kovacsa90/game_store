@@ -1,0 +1,6 @@
+.PriceCell-value {
+  min-width: 140px;
+  margin: auto;
+  font-size: 35px;
+  text-align: end;
+}
